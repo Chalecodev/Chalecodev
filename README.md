@@ -2,7 +2,6 @@
 
 - 👨‍💻 Trabajo con tecnología .NET y node js
 - 📚 Actualmente estudio Ingeniería en Informática
-- 🚀 Mi meta es ser programador senior
 - 💡 Me gusta aprender cosas nuevas todos los días de manera autodidacta
 - 🏠 Resido en Chile 🇨🇱
 
