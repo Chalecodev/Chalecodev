@@ -8,6 +8,7 @@
 <div style="display: inline-block"> <br>
     <h3>Skills</h3>
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+   <img align="center" alt="chaleco-error" width="50" height="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
