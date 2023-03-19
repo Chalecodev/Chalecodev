@@ -1,8 +1,9 @@
 ### Hola!, soy Chaleco
 
-- 👨‍💻 Trabajo con tecnología .NET y node js
-- 📚 Actualmente estudio Ingeniería en Informática
+- 👨‍💻 Me desempeño en tecnología .NET
+- 📚 Actualmente estudio Ingeniería en Informática - Tercer año
 - 💡 Me gusta aprender cosas nuevas todos los días de manera autodidacta
+- 🚀 Actualmente estoy aprendiendo Angular
 - 🏠 Resido en Chile 🇨🇱
 
 <div style="display: inline-block"> <br>
