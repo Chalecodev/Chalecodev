@@ -3,7 +3,7 @@
 - 👨‍💻 Me desempeño en tecnología .NET
 - 📚 Actualmente estudio Ingeniería en Informática - Tercer año
 - 💡 Me gusta aprender cosas nuevas todos los días de manera autodidacta
-- 🚀 Actualmente estoy aprendiendo Angular
+- 🚀 Actualmente estoy aprendiendo Angular y plataforma AWS
 - 🏠 Resido en Chile 🇨🇱
 
 <div style="display: inline-block"> <br>
