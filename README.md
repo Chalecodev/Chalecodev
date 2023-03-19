@@ -8,7 +8,7 @@
 
 <div style="display: inline-block"> <br>
    <h3>Skills</h3>
-   <div style="margin-bottom: 10px">
+   <div style="margin-bottom: 10px;">
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
