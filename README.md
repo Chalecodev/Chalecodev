@@ -1,9 +1,8 @@
 ### Hola!, soy Chaleco
 
-- 👨‍💻 Me desempeño en tecnología .NET
-- 📚 Actualmente estudio Ingeniería en Informática - Tercer año
+- 👨‍💻 Programador .NET
+- 📚 Ingeniería en Informática - Tercer año
 - 💡 Me gusta aprender cosas nuevas todos los días de manera autodidacta
-- 🚀 Actualmente estoy aprendiendo Angular y Amazon Web Services
 - 🏠 Resido en Chile 🇨🇱
 
 <div style="display: inline-block"> <br>
