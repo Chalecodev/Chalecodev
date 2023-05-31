@@ -1,4 +1,4 @@
-### Hola!, soy Chaleco
+###
 
 - 👨‍💻 Programador .NET
 - 📚 Ingeniería en Informática - Tercer año
