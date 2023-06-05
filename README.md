@@ -1,9 +1,6 @@
 ###
-
-- 👨‍💻 Programador .NET
 - 📚 Ingeniería en Informática - Tercer año
 - 💡 Me gusta aprender cosas nuevas todos los días de manera autodidacta
-- 🏠 Resido en Chile 🇨🇱
 
 <div style="display: inline-block"> <br>
    <h3>Skills</h3>
