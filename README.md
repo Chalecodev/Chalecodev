@@ -1,6 +1,5 @@
 ###
-- 📚 Ingeniería en Informática - Tercer año
-- 💡 Me gusta aprender cosas nuevas todos los días de manera autodidacta
+- 📚 Programador .NET/React
 
 <div style="display: inline-block"> <br>
    <h3>Skills</h3>
