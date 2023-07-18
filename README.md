@@ -1,5 +1,10 @@
 ###
-- 📚 Programador .NET/React
+- 💻 Programador .NET | Next js
+- 📚 Actualmente aprendiendo .NET Clean Architecture Domain Driven Design
+
+<div>
+   <h3>Portafolio en proceso</h3>
+</div>
 
 <div style="display: inline-block"> <br>
    <h3>Skills</h3>
