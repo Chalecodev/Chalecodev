@@ -2,8 +2,7 @@
 - Programador full stack 💻
 - Especializandome en tecnología .NET y React js 📚
 - Aprendiendo y aplicando buenas prácticas de programación backend utilizando arquitecturas como Clean Architecture y DDD
-- Herramientas y patrones de diseño como Entity Framework, Mediator Pattern, Repository Pattern, Generic Repository Pattern, Factory Pattern y también test unitarios
-- Mejorando diseños en el frontend con JavaScript, React js, Next js, Tailwind y CSS
+- Herramientas y patrones de diseño como Entity Framework, CQRS Pattern, Mediator Pattern, Repository Pattern, Generic Repository Pattern, Factory Pattern y también test unitarios
 
 <div>
    <h3>Portafolio en proceso</h3>
