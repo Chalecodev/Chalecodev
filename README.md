@@ -1,8 +1,6 @@
 ###
-- Fullstack Dev 💻
-- Especializandome en tecnología .NET y React js 📚
-- Aprendiendo y aplicando buenas prácticas de programación backend utilizando arquitecturas como Clean Architecture y DDD
-- Herramientas y patrones de diseño como Entity Framework, CQRS Pattern, Mediator Pattern, Repository Pattern, Generic Repository Pattern, Factory Pattern y también test unitarios
+- Full stack Dev 💻
+- Especializado en tecnología C#.NET y React js 📚
 
 <div>
    <h3>Portafolio en proceso</h3>
