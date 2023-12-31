@@ -1,6 +1,5 @@
 ###
-- Full stack Dev 💻
-- Especializado en tecnología C#.NET y React js 📚
+Desarrollador full stack especializado en tecnología C# .NET y JavaScript 📚
 
 <div>
    <h3>Portafolio en proceso</h3>
