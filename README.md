@@ -1,4 +1,5 @@
 ###
+<h3>Sobre</h3>
 Desarrollador full stack especializado en tecnología C# .NET y JavaScript 📚
 
 <div>
@@ -6,7 +7,7 @@ Desarrollador full stack especializado en tecnología C# .NET y JavaScript 📚
 </div>
 
 <div style="display: inline-block"> <br>
-   <h3>Skills</h3>
+   <h3>Habilidades</h3>
    <div>
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
