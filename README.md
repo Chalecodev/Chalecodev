@@ -1,11 +1,9 @@
 ###
-<h3>Sobre</h3>
-Desarrollador full stack especializado en tecnología C# .NET y JavaScript 📚
-
-<div>
-   <h3>Portafolio en proceso</h3>
-</div>
-
+<h1>Chaleco</h1>
+<h2>Ingeniero en Informática 📚</h2>
+<p>Especializado en .NET, JavaScript</p>
+<h3>Portafolio en proceso</h3>
+   
 <div style="display: inline-block"> <br>
    <h3>Habilidades</h3>
    <div>
