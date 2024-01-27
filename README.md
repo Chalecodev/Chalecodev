@@ -1,6 +1,6 @@
 ###
 <h1>Chaleco</h1>
-<h2>Ingeniero en Informática 📚</h2>
+<div><h2>Ingeniero en Informática 📚</h2></div>
 <p>Especializado en .NET, JavaScript</p>
 <h3>Portafolio en proceso</h3>
    
