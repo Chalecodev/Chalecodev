@@ -5,7 +5,8 @@
    +1 año de experiencia. Ingeniero en Informática y Desarrollador Web. Ubicado en Chile. <br>
    Enfocado en crear las mejores soluciones en base a las necesidades del cliente.
 <p/>
-<p style="padding: 20px; box-shadow: 0 2px 5px 3px #FF004D">Principal stakc 👉 .NET y JavaScript</p>
+<p>Principal stack 👉 .NET y JavaScript</p>
+
 <h3>Portafolio en proceso</h3>
    
 <div style="display: inline-block"> <br>
@@ -19,6 +20,7 @@
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    </div>
    </br>
    <div>
@@ -30,5 +32,6 @@
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+   <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
    </div>
 </div>
