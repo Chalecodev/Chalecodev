@@ -2,7 +2,8 @@
 <h1>Chaleco</h1>
 <div><h2>Ingeniero en Informática 📚</h2></div>
 <p>
-   +1 año de experiencia. Ingeniero en Informática y Desarrollador Web. Ubicado en Chile. Enfocado en crear las mejores soluciones en base a las necesidades del cliente.
+   +1 año de experiencia. Ingeniero en Informática y Desarrollador Web. Ubicado en Chile. <br>
+   Enfocado en crear las mejores soluciones en base a las necesidades del cliente.
 <p/>
 <p>Especializado en .NET, JavaScript</p>
 <h3>Portafolio en proceso</h3>
