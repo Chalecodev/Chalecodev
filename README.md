@@ -29,6 +29,5 @@
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
    <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-   <img align="center" alt="chaleco-error" width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
    </div>
 </div>
