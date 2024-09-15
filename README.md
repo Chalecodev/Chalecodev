@@ -1,7 +1,12 @@
 ###
 <h1>Chaleco</h1>
+<h3>Ingeniero en Informática</h3>
 <p>
-   Ingeniero en Informática
-<p/>
+   🧍‍♂️ Desarrollador de Software.
+   💻 Actualemnte cursando mi último año de Ingeniería en Informática.
+   🇨🇱 Ubicado en Chile.
+   🧑‍💻 Trabajo principalmnete con React/Next y C# .NET.
+   🧠 Actualmente mejorando mis competencias en Maching/Deep Learning y Análisis de datos.
+</p>
 
-<h3>Portafolio en desarrollo...</h3>
+<h4>Portafolio en desarrollo...</h4>
