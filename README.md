@@ -3,9 +3,9 @@
    <h3>💻 Estudiante de útlimo año de Ingeniería en Informática</h3>
    <br>
    <ul>
-     <li>🧍‍♂️ Mi stack principal es .NET Core y React.js, pero también tengo conocimientos en Python, Django, bases de datos SQL y NoSQL. Además, poseo una buena capacidad para la resolución de problemas.</li>
+     <li>🧍‍♂️ Mi stack principal es .NET Core y React.js, pero también tengo conocimientos en Python, Django, bases de datos SQL y NoSQL.</li>
      <li>🧑‍💻 Actualmente estoy aprendiendo sobre Machine Learning con TensorFlow, Linux, virtualización, Cloud Computing, Docker.</li>
-     <li>🚀 Altamente detallista y seguidor de buenas prácticas de programación, donde siempre intento aplicar código limpio, patrones de diseño y refactorización.</li>
+     <li>🚀 Me gusta seguir buenas prácticas de programación, donde siempre intento aplicar código limpio y patrones de diseño</li>
      <li>🇨🇱 Ubicado en Chile.</li>
    </ul>
 
