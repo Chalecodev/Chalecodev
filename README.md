@@ -5,7 +5,7 @@
    <ul>
      <li>🐦‍🔥 Mi stack principal es .NET Core y React.js, pero también tengo conocimientos en Python, Django, bases de datos SQL y NoSQL.</li>
      <li>🧑‍💻 Actualmente estoy aprendiendo sobre Machine Learning, Linux, virtualización, Cloud Computing, Docker.</li>
-     <li>🚀 Me gusta seguir buenas prácticas de programación, donde siempre intento aplicar código limpio y legible</li>
+     <li>🚀 Me gusta seguir buenas prácticas de programación, donde siempre intento aplicar código limpio y legible.</li>
      <li>🇨🇱 Ubicado en Chile.</li>
    </ul>
 
