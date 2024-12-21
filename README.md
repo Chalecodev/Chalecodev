@@ -1,6 +1,6 @@
 <section style="position: relative; min-height: 100vh;">
    <h1>Chaleco</h1>
-   <h3>💻 Estudiante de útlimo año de Ingeniería en Informática</h3>
+   <h3>💻 Egresado de Ingeniería en Informática</h3>
    <br>
    <ul>
      <li>🐦‍🔥 Mi stack principal es .NET Core y React.js, pero también tengo conocimientos en Python, Django, bases de datos SQL y NoSQL.</li>
