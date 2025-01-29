@@ -14,7 +14,4 @@
    <br>
    
    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaleconetwork&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-   <br>
-   <h4 style="color: #227B94"> 💼 Porfolio web</h4>
-   <a href="https://porfolio-chaleco.vercel.app" target="_blank" rel="noopener noreferrer">https://porfolio-chaleco.vercel.app</a>
 </section>
