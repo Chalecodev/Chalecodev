@@ -9,7 +9,7 @@
    </div>
    <ul>
      <li>🐦‍🔥 Cuento con experiencia en desarrollo de aplicaciones web utilizando .NET Core y React.js.</li>
-     <li>🧑‍💻 Actualmente estoy aprendiendo sobre Machine Learning, Linux, virtualización, Cloud Computing, Docker.</li>
+     <li>🧑‍💻 Actualmente estoy aprendiendo sobre Machine Learning, Linux, Virtualización, Cloud Computing, Docker.</li>
      <li>🚀 Me gusta seguir buenas prácticas de programación, donde siempre intento aplicar código limpio y legible.</li>
      <li>🇨🇱 Ubicado en Chile.</li>
    </ul>
