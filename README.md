@@ -8,8 +8,9 @@
        <h3>💻 Software Developer</h3>
    </div>
    <ul>
-     <li>🐦‍🔥 Cuento con experiencia en desarrollo de aplicaciones web utilizando .NET Core y React.js.</li>
-     <li>🧑‍💻 Actualmente estoy aprendiendo sobre Machine Learning, Linux, Virtualización, Cloud Computing, Docker.</li>
+     <li>🐦‍🔥 Cuento con experiencia en desarrollo y mantención de aplicaciones C#/.NET</li>
+     <li>🧑‍💻 Actualmente trabajo como ingeniero de software en Gaxu Soluciones.</li>
+     <li>🧠 Mi principal stack es .NET y Next.js.</li>
      <li>🚀 Me gusta seguir buenas prácticas de programación, donde siempre intento aplicar código limpio y legible.</li>
      <li>🇨🇱 Ubicado en Chile.</li>
    </ul>
