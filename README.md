@@ -9,7 +9,7 @@
    </div>
    <ul>
      <li>🐦‍🔥 Cuento con experiencia en desarrollo y mantención de aplicaciones C#/.NET</li>
-     <li>🧑‍💻 Actualmente trabajo como ingeniero de software en Gaxu Soluciones.</li>
+     <li>🧑‍💻 Actualmente trabajo como ingeniero de software en Gaxu Soluciones S.A.</li>
 <!--      <li>🧠 + Tengo experiencia práctica en Next.js, Clean Architecture...</li> -->
      <li>🚀 Me gusta seguir buenas prácticas de programación, donde siempre intento aplicar código limpio y legible.</li>
      <li>🇨🇱 Ubicado en Chile.</li>
