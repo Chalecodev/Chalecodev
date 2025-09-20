@@ -5,13 +5,13 @@
       </p>
    </h1>
    <div>
-       <h3>💻 Software Developer</h3>
+       <h3>💻 Software Engineer</h3>
    </div>
    <ul>
-     <li>🐦‍🔥 Cuento con experiencia en desarrollo y mantención de aplicaciones C#/.NET</li>
-     <!--  <li>🧑‍💻 Actualmente trabajo como ingeniero de software.</li> -->
+     <li>🐦‍🔥 Especializado en React.js y C# .NET como stack principal.</li>
+     <li>🧑‍💻 Actualmente trabajando como Software Developer en proyectos .NET.</li>
 <!--      <li>🧠 + Tengo experiencia práctica en Next.js, Clean Architecture...</li> -->
-     <li>🚀 Me gusta seguir buenas prácticas de programación, donde siempre intento aplicar código limpio y legible.</li>
+     <li>🚀 Aspirando a convertirme en Senior o Tech Lead.</li>
      <li>🇨🇱 Ubicado en Chile.</li>
    </ul>
 
